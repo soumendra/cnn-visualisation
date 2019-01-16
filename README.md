@@ -62,3 +62,11 @@ To start using this environment:
 2. `jupyter notebook` (run in terminal)
     - This will start a Jupyter Notebook in your browser
     - [Getting started with Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
+
+
+# (Extra) Working with Git and GitHub
+
+1. [Your first guide to Git](http://rogerdudler.github.io/git-guide/)
+2. [Your second guide to Git](https://guides.github.com/introduction/git-handbook/)
+3. [Your guide to GitHub](https://www.pluralsight.com/blog/software-development/github-tutorial)
+4. [Going deeper](https://guides.github.com/)
