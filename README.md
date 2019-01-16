@@ -20,10 +20,12 @@ Assuming you are inside the `cnn-visualisation` folder:
 2. Install Miniconda (skip if you have miniconda or anaconda installed): `./conda.sh` (run in terminal)
 3. Close your terminal application. Start it again.
 4. Create the *cnn* environment: `conda env create -f cnn.yml` (run in terminal)
+5. Activate the environment: `source activate cnn` (run in terminal)
+6. Install `keras-vis`: `pip install keras-vis`  (run in terminal)
 
 To start using this environment:
 
-1. `source activate cnn` (run in terminal)
+1. `source activate cnn` (run in terminal, in case you haven't previously)
 2. `jupyter notebook` (run in terminal)
     - This will start a Jupyter Notebook in your browser
     - [Getting started with Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
@@ -36,6 +38,8 @@ Note: You can also install conda [using the official guide](https://conda.io/doc
 2. Start `Anaconda Prompt` (you can search for it). This will open a terminal.
 3. In the terminal, navigate to the folder where you unzipped this repo (covered in *Getting this Repo* section).
 4. Create the *cnn* environment: `conda env create -f cnn.yml`
+5. Activate the environment: `activate cnn` (run in Anaconda Prompt)
+6. Install `keras-vis`: `pip install keras-vis`  (run in Anaconda Prompt)
 
 To start using this environment:
 
@@ -55,10 +59,12 @@ For more on using Anaconda on Windows: https://docs.anaconda.com/anaconda/user-g
 2. Close your terminal application. Start it again.
 3. Assuming you are inside the `cnn-visualisation` folder:
     - Create the *cnn* environment: `conda env create -f cnn.yml` (run in terminal)
+4. Activate the environment: `source activate cnn` (run in terminal)
+5. Install `keras-vis`: `pip install keras-vis`  (run in terminal)
 
 To start using this environment:
 
-1. `source activate cnn` (run in terminal)
+1. `source activate cnn` (run in terminal, in case you haven't previously)
 2. `jupyter notebook` (run in terminal)
     - This will start a Jupyter Notebook in your browser
     - [Getting started with Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
