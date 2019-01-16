@@ -1,6 +1,6 @@
 * This is the companion repository supporting the MMLG meetup on 19th Jan, 2019: https://www.meetup.com/Mumbai-Machine-Learning-Group/events/256998069/
 * You can attend the lecture and take notes as you see fit. If you wish to code along with the speakers, please ensure you have setup your laptop with the instructions in the following sections.
-* If you encounter any problems in setting up, please reach out in the meetup comments' section.
+* If you encounter any problems in setting up, please reach out in the meetup comments' section. Otherwise, you can create issues in this repo.
 
 # Setting Up
 
