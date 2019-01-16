@@ -1,0 +1,13 @@
+name: cnn
+channels:
+    - conda-forge
+dependencies:
+    - python==3.6
+    - numpy
+    - matplotlib
+    - jupyter
+    - scipy
+    - pandas
+    - tensorflow
+    - keras
+    - keras-vis
